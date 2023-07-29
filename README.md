@@ -1,5 +1,6 @@
 # GitHub-Profile-Viewer
 Try it here: https://bogdanmoale.github.io/GitHub-Profile-Viewer/
+
 Simple web page for a GitHub Profile Viewer. To fulfill the functionality, the app use the github-profile.js script:
 
 1. The fetchGitHubData function is defined to fetch data from the GitHub API for the given username.
